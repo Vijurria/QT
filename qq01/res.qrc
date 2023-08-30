@@ -1,0 +1,28 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/p1.jpg</file>
+        <file>images/p2.jpg</file>
+        <file>images/p3.jpg</file>
+        <file>images/p4.jpg</file>
+        <file>images/p5.jpg</file>
+        <file>images/p6.jpg</file>
+        <file>images/p7.jpg</file>
+        <file>images/p8.jpg</file>
+        <file>images/qqkt.jpg</file>
+        <file>images/jiacu.jpg</file>
+        <file>images/qingxie.jpg</file>
+        <file>images/xiahuaxian.jpg</file>
+        <file>images/xing.jpg</file>
+        <file>images/baocun.jpg</file>
+        <file>images/qingchu.png</file>
+        <file>images/pp1.jpg</file>
+        <file>images/pp2.jpg</file>
+        <file>images/pp3.jpg</file>
+        <file>images/pp4.jpg</file>
+        <file>images/pp5.jpg</file>
+        <file>images/pp6.jpg</file>
+        <file>images/pp7.jpg</file>
+        <file>images/pp8.jpg</file>
+        <file>images/pp9.jpg</file>
+    </qresource>
+</RCC>
